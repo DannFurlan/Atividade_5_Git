@@ -1,3 +1,3 @@
 # Atividade_5_Git
 
-Atualização git
+Atualização git 2 (pull)
